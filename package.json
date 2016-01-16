@@ -1,0 +1,24 @@
+{
+  "name": "zombiegame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zombie.js",
+  "dependencies": {
+    "package": "^1.0.1",
+    "prompt": "^0.2.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marcode777/zombiegame.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Marcode777/zombiegame/issues"
+  },
+  "homepage": "https://github.com/Marcode777/zombiegame#readme"
+}
